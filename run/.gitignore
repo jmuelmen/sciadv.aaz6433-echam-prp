@@ -1,0 +1,13 @@
+namelist_*
+*.nml
+
+*.bak
+
+*.rds
+
+slurm*
+log*.txt
+namelist_*
+patch*
+source*
+*echam_jobscript*
